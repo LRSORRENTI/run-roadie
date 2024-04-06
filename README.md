@@ -7,7 +7,11 @@ Run Roadie is a web application designed to help runners find compatible running
 ## Features
 
 - **Find Running Partners:** Easily search for and connect with fellow runners in your vicinity.
-- **Customize Your Profile:** Set up your running preferences, goals, and schedule to find the perfect match.
+
+## TODO:
+
+**Add functionality for:**
+
 - **Chat and Plan Runs:** Use our built-in messaging system to chat with potential running buddies and plan your next run.
 - **Track Your Progress:** Monitor your running achievements and share your milestones with the community.
 - **Join Running Events:** Discover and participate in local running events and meet-ups.
