@@ -122,7 +122,9 @@ section {
   justify-content: center;
   flex-wrap: wrap;
   align-items: flex-start;
-  background-attachment: fixed;
+  background-attachment: scroll;
+  /* TESTING background change fix, below is original: */
+  /* background-attachment: fixed; */
   background-position: 80%;
 }
 
