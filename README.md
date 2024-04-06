@@ -1,8 +1,8 @@
-# Running Buddy Finder
+# Running Buddy Finder: Run Roadie
 
 ## Introduction
 
-Running Buddy Finder is a web application designed to help runners find compatible running partners in their local area. Whether you're training for a marathon, looking for some motivation, or just want to make new friends, our app connects you with like-minded individuals who share your passion for running.
+Run Roadie is a web application designed to help runners find compatible running partners in their local area. Whether you're training for a marathon, looking for some motivation, or just want to make new friends, our app connects you with like-minded individuals who share your passion for running.
 
 ## Features
 
